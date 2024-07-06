@@ -14,6 +14,18 @@ public class task_One {
 		System.out.println("Area of parallelogram : " + areaOfParallelogram1);
 		
 		
+		// Area of Circle
+		
+		float radius = 32.89f;
+		
+		double circle = Math.PI * radius *radius ;
+		
+		System.out.println("Area of Circle :" + circle);
+		
+		// Area of Square
+		
+		
+		
 
 	}
 
